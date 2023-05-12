@@ -1,0 +1,72 @@
+{
+  "learningObjectives": [
+    {
+      "lesson": "Basic HTML Syntax",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-1-basic-html-syntax"
+    },
+    {
+      "lesson": "Basics of Structuring an HTML Document",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-2a-basics-of-structuring-an-html-document"
+    },
+    {
+      "lesson": "More Structuring Content",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-2b-more-structuring-content"
+    },
+    {
+      "lesson": "Links and Lists",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-3-links-and-lists"
+    },
+    {
+      "lesson": "HTML and CSS",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-4-html-and-css"
+    },
+    {
+      "lesson": "More in-depth with CSS",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-5-more-in-depth-with-css"
+    },
+    {
+      "lesson": "Box Model, Floats",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-6-box-model-floats"
+    },
+    {
+      "lesson": "Combinators, Position, Background",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-7-combinators-position-background"
+    },
+    {
+      "lesson": "Midterm Review",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-8-midterm-review"
+    },
+    {
+      "lesson": "Intro JavaScript",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-9-intro-javascript"
+    },
+    {
+      "lesson": "JavaScript Arrays, Functions, Scope, Objects",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-10-javascript-arrays-functions-scope-objects"
+    },
+    {
+      "lesson": "BOM and DOM",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-11-bom-and-dom"
+    },
+    {
+      "lesson": "DOM and Events",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-12-dom-and-events"
+    },
+    {
+      "lesson": "Event Listeners and Loops",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-13-event-listeners-and-loops"
+    },
+    {
+      "lesson": "ES6",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-14-es6"
+    },
+    {
+      "lesson": "Google Maps API",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-15-google-maps-api"
+    },
+    {
+      "lesson": "Flex",
+      "link": "https://canvas.csun.edu/courses/128224/pages/week-16-flex"
+    }
+  ]
+}
