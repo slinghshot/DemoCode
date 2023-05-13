@@ -1,0 +1,19 @@
+ol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* border: solid; */
+}
+a {
+  color: rgba(43, 43, 115, 0.948);
+  background-color: white;
+  margin: 10px;
+  padding: 25px;
+  width: 20%;
+  border: solid;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: yellow;
+}
